@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [41, 0],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "idkHowToNameItLeftAnimation",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [70, -2],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "awfulDownAnimation",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [78, 9],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "horribleUpAnimation",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [17, -5],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "shittyRightAnimation",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [37, 3],
+			"anim": "idle",
+			"fps": 24,
+			"name": "funnyIdleAhhAnimation",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/RECOVER_RECOVER_Hazel-NEW-Animations",
+	"position": [0, 0],
+	"healthicon": "hazel2",
+	"flip_x": false,
+	"healthbar_colors": [235, 129, 219],
+	"camera_position": [-60, -80],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
